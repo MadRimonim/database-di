@@ -1,0 +1,22 @@
+<Project>
+    <PropertyGroup>
+    <Authors>Ben Sagal</Authors>
+    <Company>Mad Mayim Rimonim Ltd.</Company>
+    <Copyright>Copyright © Mad Mayim Rimonim Ltd.</Copyright>
+
+    <TargetFrameworks>net6.0; net8.0</TargetFrameworks>
+    <LangVersion>12</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Deterministic>true</Deterministic>
+
+    <AnalysisLevel>8.0-Recommended</AnalysisLevel>
+
+    <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
+
+    <Version>0.5.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="JetBrains.Annotations" Version="2024.3.0" PrivateAssets="All" />
+  </ItemGroup>
+</Project>

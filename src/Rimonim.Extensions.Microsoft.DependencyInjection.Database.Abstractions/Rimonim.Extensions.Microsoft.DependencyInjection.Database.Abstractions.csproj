@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <PackageId>Rimonim.Extensions.Microsoft.DependencyInjection.Database.Abstractions</PackageId>
+        <Description>Abstractions for use Rimonim.Extensions.Microsoft.DependencyInjection.Database.Abstractions</Description>
+        <PackageTags>database;dependency-injection;di;dbcontext</PackageTags>
+        <RootNamespace>Rimonim.Database</RootNamespace>
+    </PropertyGroup>
+</Project>
